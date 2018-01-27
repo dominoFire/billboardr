@@ -7,7 +7,7 @@ Information from Billboard in a friendly R intervace
 Use devtools and their Github magic:
 
 ```
-devtools::install_github(repo="bilboardr", username="dominoFire")
+devtools::install_github("dominoFire/bilboardr")
 ```
 
 ## Usage
