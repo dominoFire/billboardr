@@ -1,6 +1,6 @@
 # billboardr
 
-Information from Billboard in a friendly R intervace
+Information from Billboard in a friendly R interface
 
 ## Installation
 
